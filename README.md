@@ -1,2 +1,2 @@
-# COMP561
-A repository for COMP561 (Computational Biology Methods) taken in Fall 2020.
+# COMP561 (Computational Biology Methods)
+A repository for storing Jupyter Notebooks used for COMP561's final project. Fall 2020.
